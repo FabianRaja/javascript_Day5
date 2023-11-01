@@ -1,0 +1,31 @@
+[
+   {
+        "name":"fabian raja fernando",
+        "objective":"To work for an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization's objective",
+        "address" : "17,Senthamizh Sethu Pillai Street, Ganapathypuram, East Tambaram, Chennai-59",
+        "phone number":"9790873004",
+        "mail id" : "fabiraja21052002@gmail.com"
+    },
+    {
+        "ug" : "Sathyabama Institute of Science and Technology, Semmancheri",
+        "hsc" : "SitaDevi Garodia Hindhu Vidyalaya Higher Secondary Matriculation School, East Tambaram",
+        "sslc" : "St. Mary's Matriculation Higher Secondary School, East Tambaram"
+    },
+    {
+        "disease prediction" : "In this prediction we predict 5 diseases(liver, kidney, heart, diabetes, Covid-19) using StreamLit Library",
+        "breast cancer prediction" : "Predicts Breast Cancer Disease using Machine Learning",
+        "movie ticket booking application" : "An application that allows you to book movie tickets using ReactJS"
+    },
+    {
+        "web technologies" : "html,css,javascript",
+        "backend languages" : "java,python",
+        "others" : "type writing(First class with Distinction"
+    },
+    {
+        "zoho" :"create and operate business apps using ZOHO creator",
+        "reactJs" : "Algo X Fusion - Guided me and my team to complete our mini project 1",
+        "machine learning" : "Cognibot Labs - Guided me and my team to complete our mini project 2",
+        "core java" : "Green Technologies(Tambaram Sanatorium)"
+    }
+
+]
